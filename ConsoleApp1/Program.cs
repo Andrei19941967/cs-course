@@ -8,7 +8,7 @@ class HelloWorld
         {
             Console.WriteLine("Ура, все едем в Д~А~Н~И~Ю на заработки");
         }
-        else-if(zp_rus_rub >= zp_denmark_kron)
+        if(zp_rus_rub >= zp_denmark_kron)
         {
             Console.WriteLine("Ура, все едем в РФ на заработки");
 
