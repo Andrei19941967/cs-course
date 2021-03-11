@@ -49,7 +49,8 @@ namespace onework
             else 
             {
                 int pas = Convert.ToInt32(Console.ReadLine());
-                s= Math.Pow(w, pas);
+                Double v = Convert.ToInt32(Console.ReadLine());
+                v= Math.Pow(w, pas);
             }
 
 
