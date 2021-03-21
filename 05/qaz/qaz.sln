@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qaz", "qaz\qaz.csproj", "{3AB1EFD0-28B8-45E2-BBF6-DD100CA2ECAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB1EFD0-28B8-45E2-BBF6-DD100CA2ECAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB1EFD0-28B8-45E2-BBF6-DD100CA2ECAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB1EFD0-28B8-45E2-BBF6-DD100CA2ECAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB1EFD0-28B8-45E2-BBF6-DD100CA2ECAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
