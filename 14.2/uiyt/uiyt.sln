@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uiyt", "uiyt\uiyt.csproj", "{CBCFBF29-57DF-43FE-B483-4957ABC0A62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCFBF29-57DF-43FE-B483-4957ABC0A62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCFBF29-57DF-43FE-B483-4957ABC0A62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCFBF29-57DF-43FE-B483-4957ABC0A62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCFBF29-57DF-43FE-B483-4957ABC0A62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0A6178-A74B-40CD-AAE0-7549C235C0AF}
+	EndGlobalSection
+EndGlobal
