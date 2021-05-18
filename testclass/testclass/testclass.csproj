@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Calculator.Operation\Calculator.Operation\Calculator.Operation.csproj" />
+    <ProjectReference Include="..\..\Calculator.Figure\Calculator.Figure\Calculator.Figure.csproj" />
+    <ProjectReference Include="..\Square.Calculate\Square.Calculate.csproj" />
+    <ProjectReference Include="..\Square.Figure\Square.Figure.csproj" />
+  </ItemGroup>
+</Project>
